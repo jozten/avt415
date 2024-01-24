@@ -5,6 +5,9 @@ html {font-size: 100%;} /*16px*/
 
 body {
   background-color: #00433F;
+  font-family: "open sans", sans-serif;
+  font-weight:normal;
+  font-style: normal;
   color: #B8FFB8;
   margin: 0;
   padding: 50px;
@@ -13,18 +16,37 @@ body {
 h1 {
 
   font-size: 5em;
+  font-family: "roca", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 h2 {font-size: 3em;
+  font-family: "roca", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 
 }
 
 h4 {font-size: 1.5em;
 margin-top: 0;
+font-family: "roca", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 
 }
 
 dt {
 	font-size: 2em;
 	font-weight: bold;
+  font-family: "roca", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+a {
+  color:white;
+  text-decoration:none;
+}
+a:hover {
+  text-decoration: wavy underline;
 }
